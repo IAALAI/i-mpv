@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=i-mpv Protocol Handler
+Comment=i-mpv Protocol Handler
+Exec=i-mpv.sh %u
+MimeType=x-scheme-handler/i-mpv;
+NoDisplay=true
